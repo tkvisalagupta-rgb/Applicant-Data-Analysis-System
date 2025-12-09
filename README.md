@@ -32,3 +32,10 @@ An interactive **Streamlit-based data analytics application** designed to analyz
 
 ## 📁 Project Structure
 
+## 🖼 Application Screenshots
+
+### 📌 Screenshot 1
+![Application Screenshot 1](images/image1.png)
+
+### 📌 Screenshot 2
+![Application Screenshot 2](images/image2.png)
