@@ -1,0 +1,32 @@
+# Python virtual environment
+.venv/
+env/
+venv/
+
+# Byte-compiled / cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VSCode files
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs & temp
+*.log
+
+# Environment variables
+.env
+
+# Jupyter files
+.ipynb_checkpoints/
+
+# Streamlit static cache
+.streamlit/
+
+# Dataset files (optional, depends if you want to upload sample)
+*.csv
